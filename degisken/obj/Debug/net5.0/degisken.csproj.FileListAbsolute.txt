@@ -1,0 +1,16 @@
+C:\Users\Keskin\Desktop\pratikler\degisken\bin\Debug\net5.0\degisken.exe
+C:\Users\Keskin\Desktop\pratikler\degisken\bin\Debug\net5.0\degisken.deps.json
+C:\Users\Keskin\Desktop\pratikler\degisken\bin\Debug\net5.0\degisken.runtimeconfig.json
+C:\Users\Keskin\Desktop\pratikler\degisken\bin\Debug\net5.0\degisken.runtimeconfig.dev.json
+C:\Users\Keskin\Desktop\pratikler\degisken\bin\Debug\net5.0\degisken.dll
+C:\Users\Keskin\Desktop\pratikler\degisken\bin\Debug\net5.0\ref\degisken.dll
+C:\Users\Keskin\Desktop\pratikler\degisken\bin\Debug\net5.0\degisken.pdb
+C:\Users\Keskin\Desktop\pratikler\degisken\obj\Debug\net5.0\degisken.csprojAssemblyReference.cache
+C:\Users\Keskin\Desktop\pratikler\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keskin\Desktop\pratikler\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+C:\Users\Keskin\Desktop\pratikler\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+C:\Users\Keskin\Desktop\pratikler\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\Keskin\Desktop\pratikler\degisken\obj\Debug\net5.0\degisken.dll
+C:\Users\Keskin\Desktop\pratikler\degisken\obj\Debug\net5.0\ref\degisken.dll
+C:\Users\Keskin\Desktop\pratikler\degisken\obj\Debug\net5.0\degisken.pdb
+C:\Users\Keskin\Desktop\pratikler\degisken\obj\Debug\net5.0\degisken.genruntimeconfig.cache
